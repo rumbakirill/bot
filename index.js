@@ -88,5 +88,6 @@ const start = async () => {
     })
 
 }
+const x = 1
 
 start()
