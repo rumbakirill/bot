@@ -1,0 +1,11 @@
+
+const url0 =  "https://docs.google.com/spreadsheets/d/e/2PACX-1vRF2BofnWdHUrFQdRkCfOvmGUaNlEndnWJzTmzRv-9wlM4zxdMYH4Hb9LLolIvbKgBv6FijHU_cPpeT/pubhtml?gid=1565049153&single=true"
+const url1 = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRF2BofnWdHUrFQdRkCfOvmGUaNlEndnWJzTmzRv-9wlM4zxdMYH4Hb9LLolIvbKgBv6FijHU_cPpeT/pubhtml?gid=1635786630&single=true"
+const url2 = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRF2BofnWdHUrFQdRkCfOvmGUaNlEndnWJzTmzRv-9wlM4zxdMYH4Hb9LLolIvbKgBv6FijHU_cPpeT/pubhtml?gid=840227420&single=true"
+const url3 = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRF2BofnWdHUrFQdRkCfOvmGUaNlEndnWJzTmzRv-9wlM4zxdMYH4Hb9LLolIvbKgBv6FijHU_cPpeT/pubhtml?gid=242131402&single=true"
+const url4 = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRF2BofnWdHUrFQdRkCfOvmGUaNlEndnWJzTmzRv-9wlM4zxdMYH4Hb9LLolIvbKgBv6FijHU_cPpeT/pubhtml?gid=64001108&single=true"
+const url5 = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRF2BofnWdHUrFQdRkCfOvmGUaNlEndnWJzTmzRv-9wlM4zxdMYH4Hb9LLolIvbKgBv6FijHU_cPpeT/pubhtml?gid=323853316&single=true"
+const url6 = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRF2BofnWdHUrFQdRkCfOvmGUaNlEndnWJzTmzRv-9wlM4zxdMYH4Hb9LLolIvbKgBv6FijHU_cPpeT/pubhtml?gid=149858478&single=true"
+const url7 = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRF2BofnWdHUrFQdRkCfOvmGUaNlEndnWJzTmzRv-9wlM4zxdMYH4Hb9LLolIvbKgBv6FijHU_cPpeT/pubhtml?gid=1800669419&single=true"
+const url8 = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRF2BofnWdHUrFQdRkCfOvmGUaNlEndnWJzTmzRv-9wlM4zxdMYH4Hb9LLolIvbKgBv6FijHU_cPpeT/pubhtml?gid=1290437637&single=true"
+const url9 = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRF2BofnWdHUrFQdRkCfOvmGUaNlEndnWJzTmzRv-9wlM4zxdMYH4Hb9LLolIvbKgBv6FijHU_cPpeT/pubhtml?gid=1362554708&single=true"
